@@ -7,9 +7,7 @@ simple webapp that generates a portfolio using node, inquirer, and nodes built i
 - [Features](#features)
 - [Future](#future)
 - [Notes](#notes)
-- [Live-site](#live-site)
 - [Screenshot](#screenshot)
-- [Credits](#credits)
 - [License](#license)
 
 
